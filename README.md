@@ -1,17 +1,17 @@
 # Amazing Safari (Batch 9)
 
-[Amazing Safari](https://amazingsafari.haidar.dev) online store for zoo products merchandise.
+[Amazing Safari](https://amazingsafari-9.haidar.dev) online store for zoo products merchandise.
 
 ## Links
 
-- Frontend Web: <https://amazingsafari.haidar.dev>
-- Backend API: <https://amazingsafari-api.haidar.dev>
+- Frontend Web: <https://amazingsafari-9.haidar.dev>
+- Backend API: <https://amazingsafari-api-9.haidar.dev>
 
 Repositories:
 
-- General: <https://github.com/bear-mentor/amazingsafari>
-- Backend API: <https://github.com/bear-mentor/amazingsafari-api>
-- Frontend Web: <https://github.com/bear-mentor/amazingsafari-web>
+- General: <https://github.com/bear-mentor/amazingsafari-9>
+- Backend API: <https://github.com/bear-mentor/amazingsafari-9-api>
+- Frontend Web: <https://github.com/bear-mentor/amazingsafari-9-web>
 
 UI Designs:
 
@@ -87,7 +87,7 @@ Inspirations:
 
 ## REST API Endpoints
 
-- Production: `https://amazingsafari.haidar.dev`
+- Production: `https://amazingsafari-9.haidar.dev`
 - Local: `http://localhost:3000`
 
 | Endpoint         | HTTP     | Description               |
