@@ -10,8 +10,8 @@
 Repositories:
 
 - General: <https://github.com/bear-mentor/amazingsafari-9>
-- Backend API: <https://github.com/bear-mentor/amazingsafari-9-api>
-- Frontend Web: <https://github.com/bear-mentor/amazingsafari-9-web>
+- Backend API: <https://github.com/bear-mentor/amazingsafari-api-9>
+- Frontend Web: <https://github.com/bear-mentor/amazingsafari-web-9>
 
 UI Designs:
 
